@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/week23_CSS-in-React/static/css/main.827945d6.css",
+    "main.js": "/week23_CSS-in-React/static/js/main.49e5001e.js",
+    "index.html": "/week23_CSS-in-React/index.html",
+    "main.827945d6.css.map": "/week23_CSS-in-React/static/css/main.827945d6.css.map",
+    "main.49e5001e.js.map": "/week23_CSS-in-React/static/js/main.49e5001e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827945d6.css",
+    "static/js/main.49e5001e.js"
+  ]
+}
